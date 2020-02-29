@@ -1,0 +1,8 @@
+A java based application in which a student can view his/her result and a faculty can add result of existing student
+or add a new student information. 
+Technologies Used:	
+        Front-end: Java Swings
+				Back-end: Java
+				Database: MySQL
+        
+  Database File is also attached in zip folder names as "sis.sql" 
